@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Elena 👋</h1>
-<h3 align="center">Beginner frontend developer from Russia.<br>Freshly graduated from Yandex.Practicum.<br>Currently in search for a job.</h3>
+<h3 align="center">Frontend developer from Russia.<br>Graduated from Yandex.Practicum.<br>Currently in search for a job.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
